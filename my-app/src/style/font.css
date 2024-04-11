@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'LTRoman';
+    font-weight: 400;
+    src: url('../assets/fonts/UniversLTPro55Roman.ttf');
+}
+
+@font-face {
+    font-family: 'LTProBold';
+    font-weight: 700;
+    src: url('../assets/fonts/UniversLTPro65Bold.ttf');
+}
+
+@font-face {
+    font-family: 'LTProCondensed';
+    font-weight: 400;
+    src: url('../assets/fonts/UniversLTProCondensed.ttf');
+}
+@font-face {
+    font-family: 'LTProLight';
+    font-weight: 300;
+    src: url('../assets/fonts/UniversLTPro45Light.ttf');
+}
+
