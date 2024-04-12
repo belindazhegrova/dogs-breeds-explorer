@@ -5,8 +5,4 @@ It allows users to search for images of specific dog breeds and view basic infor
 I have implemented key features like search bar functionality and a sorting mechanism to organize dog breeds by group,
 but the API does not provide the ability to search and sort by breed, so I have implemented it using a JavaScript function for each page because the API does not exist for these functionalities.
 
-For starting the application here are the steps:
-1.Install the dependencies by running the following command:
-  npm install
-2.Run the following command to start the application:\
-  npm run start
+
