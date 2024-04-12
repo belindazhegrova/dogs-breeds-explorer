@@ -1,3 +1,4 @@
+
 The Dog Breeds Explorer is a web application built using React and JavaScript and using a Dog public API.
 It allows users to search for images of specific dog breeds and view basic information about them. 
 
